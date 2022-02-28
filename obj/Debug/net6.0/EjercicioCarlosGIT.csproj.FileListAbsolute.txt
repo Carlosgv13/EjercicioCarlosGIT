@@ -1,0 +1,15 @@
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\bin\Debug\net6.0\EjercicioCarlosGIT.exe
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\bin\Debug\net6.0\EjercicioCarlosGIT.deps.json
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\bin\Debug\net6.0\EjercicioCarlosGIT.runtimeconfig.json
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\bin\Debug\net6.0\EjercicioCarlosGIT.dll
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\bin\Debug\net6.0\ref\EjercicioCarlosGIT.dll
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\bin\Debug\net6.0\EjercicioCarlosGIT.pdb
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.csproj.AssemblyReference.cache
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.AssemblyInfoInputs.cache
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.AssemblyInfo.cs
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.csproj.CoreCompileInputs.cache
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.dll
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\ref\EjercicioCarlosGIT.dll
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.pdb
+C:\Users\creal\Desktop\Virualcc\EjercicioCarlos\EjercicioCarlosGIT\obj\Debug\net6.0\EjercicioCarlosGIT.genruntimeconfig.cache
